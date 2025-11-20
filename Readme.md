@@ -15,7 +15,7 @@
 ## 使用方式
 1. 浏览器安装 Tampermonkey 或同类脚本管理器。
 2. 安装脚本：
-   - 方式 A：发布到 GreasyFork 后，可直接点击安装（发布后在此补充链接）。
+   - 方式 A：GreasyFork 直接安装：https://greasyfork.org/zh-CN/scripts/556383-ai-%E8%81%8A%E5%A4%A9%E4%BE%A7%E8%BE%B9%E5%AF%BC%E8%88%AA-gemini-chatgpt
    - 方式 B：打开仓库中的 `ai-chat-navigator.user.js`，复制全部内容，在 Tampermonkey 中「添加新脚本」并保存。
 3. 打开 ChatGPT 或 Gemini 页面，等待 1~2 秒，右侧会出现 60px 宽的悬停导航；鼠标悬停展开，点击即可跳转。
 

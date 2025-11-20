@@ -4,6 +4,11 @@
 // @version      2.0
 // @description  A unified side navigation for both Gemini and ChatGPT. Auto-detects platform, tracks questions, and prevents lag.
 // @author       YunAsimov
+// @homepageURL  https://github.com/YunAsimov/AI-Chat-Navigator
+// @supportURL   https://github.com/YunAsimov/AI-Chat-Navigator/issues
+// @updateURL    https://raw.githubusercontent.com/YunAsimov/AI-Chat-Navigator/main/ai-chat-navigator.user.js
+// @downloadURL  https://raw.githubusercontent.com/YunAsimov/AI-Chat-Navigator/main/ai-chat-navigator.user.js
+// @license      MIT
 // @match        https://gemini.google.com/*
 // @match        https://chatgpt.com/*
 // @grant        none
