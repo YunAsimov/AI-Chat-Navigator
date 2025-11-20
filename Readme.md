@@ -34,9 +34,6 @@ const CONFIG = {
 ```
 保存后刷新页面生效。
 
-## 文件结构
-- `ai-chat-navigator.user.js`：主脚本。
-- `image/image.png`：预览截图，可在 GitHub / GreasyFork 说明中引用。
 
 ## 常见问题
 - 导航未出现？确认域名为 `chatgpt.com` 或 `gemini.google.com`，并确保脚本已启用后刷新页面。
